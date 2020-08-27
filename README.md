@@ -1,32 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my blog!
 
-You can use the [editor on GitHub](https://github.com/canlasss/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Camille Hall majoring in Web Design and Development. I just love the world of technologies, it excites me for an odd reason. I love the Korean and Japanese culture but most of the time I listen to Korean music. A day doesn't pass by without me listening to Korean pop songs. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Learning 
 
-### Markdown
+Designing is fun but coding makes it even better. I'm looking forward to learning more about this field because technologies is increasing and becoming smarter. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
