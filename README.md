@@ -4,13 +4,7 @@ My name is Camille Hall majoring in Web Design and Development. I just love the 
 
 ### Learning 
 
-Designing is fun but coding makes it even better. I'm looking forward to learning more about this field because technologies is increasing and becoming smarter. 
+Designing is fun but coding makes it even better. I'm still in the progress of my coding skills and is willing to go deeper about JavaScript I'm looking forward to learning more about this field because technologies is increasing and becoming smarter. 
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canlasss/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
