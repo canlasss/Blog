@@ -6,5 +6,13 @@ My name is Camille Hall majoring in Web Design and Development. I have two older
 
 Designing is fun but coding makes it even better. My only experience with JavaScript was from a past class I've taken. And all I can say it's so interesting and unbelievable how smart it is. I'm still in the progress of my coding skills and is willing to go deeper about JavaScript I'm looking forward to learning more about this field because technologies are increasing and becoming smarter. 
 
+### JAMStack
+JAM stands for JavaScript, API & Markup. JAMStack is a new, modern method for building websites and apps.
+
+Why is it an important tool in web development?
+JAMStack is aimed toward better performance, higher security, and better developer experience.
+
+What tools did you use to bring up your blog?
+I used Jekyll from a Githhub server.
 
 
