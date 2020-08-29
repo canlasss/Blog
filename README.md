@@ -12,17 +12,17 @@ JAM stands for JavaScript, API & Markup.
 JAMStack is a new, modern method for building websites and apps.
 
 
-Why is it an important tool in web development?
+## Why is it an important tool in web development?
 
 JAMStack is aimed toward better performance, higher security, and better developer experience.
 
 
-What tools did you use to bring up your blog?
+## What tools did you use to bring up your blog?
 
 I used Jekyll from a Githhub server.
 
 
-Why did you choose those tools?
+## Why did you choose those tools?
 
 It seemed to work as expected and very straight forward. 
 
