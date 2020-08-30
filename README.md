@@ -14,7 +14,11 @@ JAMStack is a new, modern method for building websites and apps.
 
 #### Why is it an important tool in web development?
 
-JAMStack is aimed toward better performance, higher security, and better developer experience.
+JAMStack is aimed toward better performance, higher security, and better developer experience. Easier to work it, doesn't rely on a web server to function. 
+
+#### How can a web developer use the JAMStack?
+
+Designed to make the web faster when creating websites and apps.
 
 
 #### What tools did you use to bring up your blog?
